@@ -2,6 +2,13 @@
 
 This is the first project for Udacity's Data Analyst Nanodegree.
 
+## Folder Structure
+```
+Root
+  +-report.md       // the report of this project for Exploring Weather Trends
+  +-resource/       // folder to hold all of resource which is required in report, such as pictures, sql files and etc.
+```
+
 ## Project Instructions
 
 The detail of this project could be found [Here](https://classroom.udacity.com/nanodegrees/nd002-cn-basic/parts/cabecc9c-a254-41e7-b2b7-2c851c190d46/modules/188c878c-5365-4bf3-9fa8-08cf57336fc4/lessons/dce89631-d141-4a36-b3fd-5e8ec038bc70/concepts/7792fbaa-7f3d-46f1-b6fb-e5f65ce35796)
