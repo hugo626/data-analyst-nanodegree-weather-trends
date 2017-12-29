@@ -5,7 +5,8 @@ This is the first project for Udacity's Data Analyst Nanodegree.
 ## Folder Structure
 ```
 Root
-  +-report.md       // the report of this project for Exploring Weather Trends
+  +-Explorer Weather Trends.md       // the report of this project for Exploring Weather Trends
+  +-Explorer Weather Trends.pdf       //the final submitted version of report.
   +-resource/       // folder to hold all of resource which is required in report, such as pictures, sql files and etc.
 ```
 
