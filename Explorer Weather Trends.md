@@ -77,8 +77,8 @@
 
 <p align="center">
     <img src="resource/global_adl_xian_5y_avg_chart.png" alt="">
-</p align="center">
-<p>
+</p >
+<p align="center">
     <em>图1: 全球vs阿德莱德vs西安气温变化5年移动平均值</em>
 </p>
 
